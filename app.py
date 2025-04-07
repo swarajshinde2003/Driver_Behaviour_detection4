@@ -136,4 +136,4 @@ elif option == "🖼️ Try Sample Images":
         st.warning("⚠️ No sample images found in this category.")
 
 # ----- Footer -----
-st.markdown('<div class="footer">Made with ❤️ using Streamlit • Powered by VGGNet • UI Enhanced by ChatGPT ✨</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Made by Swaraj Shinde • Powered by VGGNet(CNN) •</div>', unsafe_allow_html=True)
